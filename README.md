@@ -25,8 +25,8 @@ So here i have tried to segregate the list and put into following categories
       
 This could help to track and understand what technologies are popular and being used in market currently. I have tagged sub items in each category into following classification, so you can decide what to learn and what to skip.
 
-  a. Must have
-  b. Good to have
-  c. Nice to have
+  • Must have
+  • Good to have
+  • Nice to have
   
 Note: Depends on your experience, roles and responsibilities, the list of "Must have", "Good to have" may vary. you may not have to learn everything. For example if your are junior programmer, then you don't have learn very advanced concepts and practices.
