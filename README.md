@@ -1,4 +1,4 @@
-# FullStackDevelopment
+# Full Stack Development - Microsoft .NET stack
 Tools and technologies required for full stack development (.Net technology stack)
 
 This repository contains excel sheet which has list of frameworks, tools and technologies used in full stack development using Microsoft stack.
