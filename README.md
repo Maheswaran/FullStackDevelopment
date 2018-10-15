@@ -5,24 +5,28 @@ This repository contains excel sheet which has list of frameworks, tools and tec
 
 So here i have tried to segregate the list and put into following categories
 
-  a. Front end
-      i. Client side programming
-      ii. server side programming
-  b. Back end
-      i. Business Logic implementation
-      ii. OR Mapping frameworks
-      iii. Architecture
-  c. Database
-  d. Development methodologies
-  e. DevOps 
-      i.  Tools 
-      ii. infrastructure
-  f. Cloud Computing
-      i. MS Azure services
-      ii. Containerization
+	• Front end  
+		○ Client side programming      
+		○  Server side programming  
+	• Back end
+		○ Business Logic implementation
+		○ OR Mapping frameworks
+		○ Architecture
+	• Database
+	• Development methodologies
+		○ SCRUM
+		○ KANBAN
+	• DevOps 
+		○ Tools 
+		○ Infrastructure
+	• Cloud Computing
+		○ MS Azure services
+    ○ Containerization
+      
 This could help to track and understand what technologies are popular and being used in market currently. I have tagged sub items in each category into following classification, so you can decide what to learn and what to skip.
 
   a. Must have
   b. Good to have
   c. Nice to have
+  
 Note: Depends on your experience, roles and responsibilities, the list of "Must have", "Good to have" may vary. you may not have to learn everything. For example if your are junior programmer, then you don't have learn very advanced concepts and practices.
