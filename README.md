@@ -7,7 +7,7 @@ So here i have tried to segregate the list and put into following categories
 
 	• Front end  
 		○ Client side programming      
-		○  Server side programming  
+		○ Server side programming  
 	• Back end
 		○ Business Logic implementation
 		○ OR Mapping frameworks
